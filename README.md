@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **just about anything!**
 
-- 🤝 I’m looking for help with [building my resource library!]([anavahdesigns.com](https://anavahdesigns.com)
+- 🤝 I’m looking for help with [building my resource library!]([https://anavahdesigns.com)
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/officiallyhailey](https://codepen.io/officiallyhailey)
 
